@@ -1,0 +1,7 @@
+{
+  "name": "testing-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suminc7/testing-library.git",
+  "license": "MIT"
+}
